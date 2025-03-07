@@ -1,1 +1,12 @@
-# Ayomide-Baby-Step-in-Data-Analysis
+# PROJECT NAME: Ayomide-Baby-Step-in-Data-Analysis
+
+___
+# DATA SOURCING
+
+___
+# DATA TRANSFORMATION
+
+___
+# FINDINGS AND RECOMMENDATIONS
+
+___
